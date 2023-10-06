@@ -1,0 +1,4 @@
+#!/bin/bash
+# Turn in asgn 4
+
+handin pn-cs357 asgn4 README Makefile
